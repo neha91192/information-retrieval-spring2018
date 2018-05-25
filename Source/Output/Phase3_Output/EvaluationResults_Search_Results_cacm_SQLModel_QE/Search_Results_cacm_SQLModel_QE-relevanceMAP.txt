@@ -1,0 +1,1 @@
+The Mean Average Precision of Search_Results_cacm_SQLModel_QE is 0.2970203730275861

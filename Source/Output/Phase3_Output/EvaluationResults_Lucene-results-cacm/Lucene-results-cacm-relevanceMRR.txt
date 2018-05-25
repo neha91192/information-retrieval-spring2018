@@ -1,0 +1,1 @@
+The Mean Reciprocal Rank for Lucene-results-cacm is 0.6433767223681067

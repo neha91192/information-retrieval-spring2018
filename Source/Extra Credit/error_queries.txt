@@ -1,0 +1,64 @@
+what artciles exist which deal with tss time sharing an opearting system for ibm comupters 
+i am intreested in artciles written either by prieve or udo pooch 
+intremediate languages used in construction of mulit-targeted compilers tcoll 
+im intreested for comumnicating between disjoint processes possibly but not exculsively in a disrtibuted envrionment i would rather see desrciptions complete mechanisms with or without impelmentations as opposed to theroetical work on the abstract problem remote procedure calls and mesasge-passing are examples of my interests 
+id like papers impelmentation of editing interfaces winodw-managers command intrepreters etc the essential issues are human interface design with views on imporvements to user efficiency effcetiveness and satsifaction 
+articles on robotics planning paritcularly geoemtric and comibnatorial aspects we are not intreested in the dynamics of arm motion 
+i am interested disrtibuted concurrent programs in which processes comumnicate synhcronize by using message passing areas particular interest include fautl-tolerance and techniques for undrestanding the corerctness of these algorithms 
+schemes for resuorces networks resource adderssing in network operating systems 
+security conisderations in local networks network operating and disrtibuted systems 
+languages for parallel comuptation 
+setl very high level lanugages 
+portable operating systems 
+code optmiization for space efficiency 
+find all discussions optimal impelmentations of sort algorithms for database management appilcations 
+find all disucssions horziontal microcode with special emphasis on of loops and global optmiization 
+find all desrciptions of file handling in opearting systems based on multiple proecsses and message passing 
+optmiization of intermediate and machine code 
+languages and compilers for parallel proecssors espceially highly horizontal microcoded machines code compaction 
+parallel algorithms 
+graph theoretic algroithms applicable to sparse matrices 
+computational complexity intarctability class-complete reductions algorithms and efficiency 
+i am intreested hidedn-line hidedn-surface algorithms for cylinders toroids spheres and cones this is a rather speicalized topic in computer graphics 
+disrtibuted computing structures and algorithms 
+applied stochastic processes 
+perofrmance evaluation and modelling of computer systems 
+conucrrency control mechanisms in operating systems 
+memory mangaement aspects of operating systems 
+any infromation on radio netowrks of paritcular interest are algroithms packet routing and for dealing with changes topgoraphy i am not intreested hardware used in the network 
+numebr-theoretic algroithms especially involving prime number series sieves and chinese remainder theorem 
+artciles on text foramtting inculding see is what you get systems exapmles t nroff scribe bravo 
+id like find artciles desrcibing use of sinuglar value decmoposition appilcations include finding apporximations oriignal resotring images that are to noise an article on the subject is outer product expnasions and their uses in digital image proecssing american matehmatical andrews h patetrson c 
+id like to find articles desrcibing that are based on eignevalue or singular value decmoposition of ajacency matrix the im espceially intreested in any heuirstic algroithms for coloring and graph isoomrphism using this method 
+about senistivity eignevalue decmoposition real paritcular zero-one matrices im espceially intreested in sepraation eignespaces corersponding to distinct eignevalues articles on subject and the rotation eignevectors by a perumtation 7 1 1970 error bounds for apporximate invraiant subpsaces of closed linear operators siam j numreical analysis vol 8 no 4 1971 davis c kahn w stewart g 
+curerntly intreested in isolation root of polnyomial there is an old more recent material 
+algroithms espceially those dealing with algebraic and symbolic manpiulation some examples rabiin algorithm on finite field waztch proabbilistic testing of polnyomial identities siam rabin m 
+fast algorithm for conetxt-free language recognition or parsing 
+artciles desrcibing reltaionship data conucrrency g what proecss when synhcronization attempt betewen two proecsses correct in a mesasge-passing system is there notion types mesasges --i e any way to check that sender of message and reciever are both tretaing the bit stream as some paritcular type 
+what type of i dont want the entrie litreature on absrtact data types here but not sure phrsae this to avoid im intreested quetsions about how one can check that a modlue mathces conetxts in which it is used 
+what does type comaptibility mean in prorgammer defined you might want restrict this to extnesible lanugages that allow defniition abstract data types or prorgammer-supplied defniitions of operators like 
+list all artciles dealing data types fololwing are refreenced freuqently in papers on the above e g catch any lanugages with intreesting type strcutures that i might have missed 
+databases subtopics special interest include relaibility fautl-tolerance in atomicity disrtibuted trasnactions synhcronization algroithms resource allcoation lower bounds models for asycnhronous parallel systems also theory of comumnicating processes and protocols p box 2158 yale station new haven conn 06520 
+computer perofrmance evaluation techniques using pattern recgonition and clustering la 70803 
+analysis perception humans and computers desrciptions recgonition by computer twod-imensional shapes measures of ciruclarity shape matching 
+by computer digtiized analysis synthesis perecption of texture 
+the use of opeartions research models to optimize infromation system perofrmance this includes fine tuning decisions such as secondary index selection file reogranization and disrtibuted databases 
+the appilcation of fuzzy subset theory to clustering infromation retrieval problems this includes perofrmance evaluation and automatic indexing conisderations 
+use bayseian decsiion models optimize infromation system perofrmance this includes stopping rules to detremine when user should cease scanning the output of a retireval search 
+use computer science pricniples data strcutures numerical methods in genreating optmiization e g linear prorgamming this includes issues the khachian russian ellpisoidal algorithm and complexity of such algroithms 
+the role of infromation retireval in knowledge based i e expert systems 
+parallel processors in infromation retrieval 
+parallel proecssors and paging algorithms 
+modelling and simulation in agrciultural ecosystems 
+matehmatical induction group theory integers modulo m probability coefficients binomial theorem hommoorphism morphism transitivity relations relation matrix 
+prorgamming languages including abstract speicfications data types dentoational semantics and proofs correctness university of masaschusetts amherst ma 01003 
+anyhting dealing with star height of lanugages experssions or regular events 
+articles relation algberaic theory semgiroups monoids to the study of automata and regular lanugages 
+absrtacts artciles can prorgamming be libreated from the von neuamnn funtcional style and its algbera of prorgams 21 re letter to acm forum cacm 22 1979 629 630 bacuks j de millo lipton r perlis a 
+algroithms packages for anova regerssion using least squares or genrealized linear models system design capbailities staitstical formula are of interest students t test wilcoxon sign tests mulitvariate and uniavriate components can be included 
+dicitonary contsruction and accsesing for fast retireval of words lexical items morhpologically related infromation hashing indexing methods are usually applied to english spelling or natural language problems 
+and sofwtare relating mangaement database packages back end comupters special asscoiative harwdare with micorcomputers attached to disk heads things rap reltaional network codasyl or hiearrchical models systems like system r ims adabas total etc 
+infromation retireval articles by gerard salton others about clutsering bibilographic coupling use of cittaions or co-ictations the vector space model boolean search methods using inverted files feedback etc 
+results reltaing parallel comlpexity theory both for prams and uniform circuits 
+for comuptation especially comaprisons between parallel and sequential algorithms 
+lsit all artciles on and ecl el1 may be givne as el 1 i dont remmeber how they did it 
